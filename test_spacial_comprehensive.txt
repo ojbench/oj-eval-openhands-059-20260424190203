@@ -1,0 +1,24 @@
+
+
+
+
+
+SpacialJudger
+1000 1000
+500 500
+correct output
+#####
+750 750
+correct output
+#####
+1000 1000
+correct output
+#####
+250 250
+correct output
+#####
+
+
+
+
+

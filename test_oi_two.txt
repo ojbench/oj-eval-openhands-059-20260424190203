@@ -1,0 +1,16 @@
+
+
+
+OIJudger
+1000 1000
+correct answer
+#####
+500 500
+correct answer
+#####
+500 500
+another submission
+#####
+
+
+

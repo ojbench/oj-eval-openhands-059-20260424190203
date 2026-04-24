@@ -1,0 +1,13 @@
+
+
+OIJudger
+1000 1000
+hello world  
+test line  
+#####
+500 500
+hello world
+test line
+#####
+
+
